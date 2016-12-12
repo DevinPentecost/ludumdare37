@@ -455,8 +455,10 @@ PlayerSettings:
   cloudServicesEnabled:
     Build: 1
     Collab: 1
+    ErrorHub: 0
+    Hub: 0
     UNet: 1
   cloudProjectId: 594a8b04-21ad-4845-970a-7f6a8ed689e7
   projectName: ludumdare37
-  organizationId: danny-3346952
+  organizationId: devdan
   cloudEnabled: 0
